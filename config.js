@@ -5,10 +5,10 @@
 module.exports = {
     // Bot Bot + Owner Configuration
     ownerNumber: ['959666862579'], // Your Bot number without + or spaces
-    ownerName: ['Professor Tom'], 
+    ownerName: ['Prince Down'], 
     
     // Bot Configuration
-    botName: 'TOM-PRIME-X',
+    botName: 'Prince',
     prefix: '.',
     sessionName: 'session',
     sessionID: process.env.SESSION_ID || '', 
@@ -42,8 +42,8 @@ module.exports = {
       antigroupmention: false, 
       antigroupmentionAction: 'delete', 
       welcome: true, 
-      welcomeMessage: '╭╼━≪•𝚃𝙾𝙼-𝙿𝚁𝙸𝙼𝙴-𝚇•≫━╾╮\n┃𝚆𝙴𝙻𝙲𝙾𝙼𝙴: @user 👋\n┃Member count: #memberCount\n┃𝚃𝙸𝙼𝙴: time⏰\n╰━━━━━━━━━━━━━━━╯\n\n*@user* Welcome to *@group*! 🎉\n*Group 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝚃𝙸𝙾𝙽*\ngroupDesc\n\n> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ TOM-PRIME-X*',
-      goodbye: true,
+      welcomeMessage: '_W3LLC0M3 H0 GY4 APK4 J4NU KHUSHBU L4G4 KE 🥹💋"_',
+      goodbye: false,
       goodbyeMessage: 'Goodbye @user 👋 We will never miss you!',
       antiSpam: true,
       antidelete: true, 
